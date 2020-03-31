@@ -15,7 +15,7 @@
   },
   "preferGlobal": true,
   "bin": {
-    "btc-converter": "bin/main.js"
+    "btconver": "bin/main.js"
   },
   "nyc": {
     "reporter": [
